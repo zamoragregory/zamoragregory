@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Gregory</h1>
-<h3 align="center">A passionate front-end developer from Philippines 👨‍💻</h3>
+<h3 align="center">A passionate learning front-end developer from Philippines 👨‍💻</h3>
 
 - 🔭 I’m currently working on **Upscaling my front-end skills**
 
 - 🌱 I’m currently learning **API's, PHP, Responsive Websites**
 
-- 💬 Ask me about **PHP, HTML, CSS**
+- 💬 Ask me about **PHP, HTML, CSS, WordPress**
 
 - 📫 How to reach me **zamoragregorychristian2@gmail.com**
 
